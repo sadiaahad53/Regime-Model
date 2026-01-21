@@ -1,0 +1,12 @@
+data:
+  symbol: "SPY"
+  start_date: "2017-01-01"
+  end_date: "2024-06-01"
+  raw_data_path: "data/raw/raw_data.csv"
+
+model:
+  n_states: 4
+  covariance_type: "full"
+
+backtesting:
+  annual_trading_days: 252

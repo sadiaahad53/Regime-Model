@@ -1,0 +1,9 @@
+numpy
+pandas
+pyyaml
+matplotlib
+yfinance
+requests
+tqdm
+scikit-learn
+hmmlearn>=0.3.2
